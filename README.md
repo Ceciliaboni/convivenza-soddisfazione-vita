@@ -12,7 +12,7 @@ Verificare se la convivenza, rispetto ad altre forme di relazione, influenzi sig
 - Discussione dei risultati in ottica demografica e sociale
 
 ## File
-- `PROGETTO_DEMOGRAFIA.do` → codice STATA
+- `script_progetto.do` → codice STATA
 
 ## Autrici
 Boni Cecilia & D’Agostino Federica  
