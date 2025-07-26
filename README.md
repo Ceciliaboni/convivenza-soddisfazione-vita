@@ -13,7 +13,6 @@ Verificare se la convivenza, rispetto ad altre forme di relazione, influenzi sig
 
 ## File
 - `PROGETTO_DEMOGRAFIA.do` – codice STATA
-- `dati` – dataset utilizzato
 
 ## Autrici
 Boni Cecilia & D’Agostino Federica  
