@@ -12,9 +12,7 @@ Verificare se la convivenza, rispetto ad altre forme di relazione, influenzi sig
 - Discussione dei risultati in ottica demografica e sociale
 
 ## File
-- `PROGETTO_DEMOGRAFIA.qmd` – codice R
 - `PROGETTO_DEMOGRAFIA.do` – codice STATA
-- `PROGETTO_DEMOGRAFIA.html` – versione visualizzabile
 - `dati` – dataset utilizzato
 
 ## Autrici
