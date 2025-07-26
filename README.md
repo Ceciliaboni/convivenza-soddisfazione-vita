@@ -1,4 +1,4 @@
-# convivenza-soddisfazione-vita
+# Relazione tra convivenza e soddisfazione per la vita
 
 Questo progetto analizza il legame tra configurazioni familiari e benessere soggettivo (Subjective Well-Being), usando dati demografici e analisi statistica.
 
